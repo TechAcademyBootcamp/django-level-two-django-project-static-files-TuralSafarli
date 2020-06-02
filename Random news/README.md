@@ -9,4 +9,4 @@
 7. In each request get random news and send response’ data as context
 8. Show sended news’ details in template using template variables
 
-![Final result]("https://i.ibb.co/g9G5gXL/Screenshot-from-2020-06-02-12-38-56.png") 
+![Final result](https://i.ibb.co/g9G5gXL/Screenshot-from-2020-06-02-12-38-56.png) 
